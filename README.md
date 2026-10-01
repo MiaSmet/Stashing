@@ -1,6 +1,8 @@
-# Welcome to Version Control
+# Extra merge conflict practice
 
 A simple, modern-styled web page built with plain HTML and an external CSS file.
+
+## yippee wahoo
 
 ## Structure
 
